@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+
+    <color name="granate">#800000</color>
+    <color name="cedate">#5F9EA0</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="aceituna">#6B8E23</color>
+</resources>
